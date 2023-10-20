@@ -1,5 +1,5 @@
 # [DesiDeliveries](http://127.0.0.1:5501/)
- Minor project- A website for ordering and delivery food items. 
+ Minor project- A website for ordering and delivery food items.  
  ![Screenshot 2023-08-23 162901](https://github.com/VidushiSingh56/DesiDeliveries/assets/121214099/b8e869ac-e71b-4834-9dcb-e20c371bb954)
  
 ![Screenshot 2023-08-23 162916](https://github.com/VidushiSingh56/DesiDeliveries/assets/121214099/52b9af41-e7a5-404d-b269-fde8ab4109f5)
